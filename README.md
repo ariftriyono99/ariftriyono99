@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Arif Triyono 👋
 
-<!--
-**ariftriyono99/ariftriyono99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Management Professional | Research & Business Analytics Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a management professional with an academic background in Nutrition Science from Universitas Negeri Semarang and graduate studies in Management at Universitas Terbuka.
+
+My professional interests span Human Resources & General Affairs, business strategy, organizational management, research, and data-driven decision-making.
+
+🎯 Areas of Interest
+- Business Strategy & Performance Management
+- Human Resources & General Affairs
+- Business Intelligence & Data Analytics
+- Financial Literacy & Digital Investment Research
+- Nutrition Science & Health Management
+- Digital Transformation & Organizational Development
+
+📚 Research Focus
+My academic research explores digital gold investment intention, focusing on financial literacy, digital trust, and financial socialization.
+
+🚀 Current Goals
+- Strengthening analytical and digital competencies
+- Building a portfolio of business and research projects
+- Exploring practical applications of data analytics in management
+- Connecting academic knowledge with professional practice
+
+Professional Philosophy
+*Connecting knowledge, strategy, and innovation to create meaningful impact.*
+
+🤝 Let's Connect
+I'm open to academic collaboration, professional networking, and knowledge sharing.
